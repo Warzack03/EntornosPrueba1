@@ -1,3 +1,9 @@
+/*
+*      CABECERA DE PORYECTO
+*/
+
+
+
 import java.util.Scanner;
 
 import org.fusesource.jansi.Ansi;
@@ -11,7 +17,6 @@ import org.fusesource.jansi.AnsiConsole;
  * de color a la consola
  
  * @author loned
- * 
  */
 public class MainTresEnRaya {
 
